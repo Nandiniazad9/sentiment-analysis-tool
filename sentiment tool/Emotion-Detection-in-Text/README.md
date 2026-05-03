@@ -1,6 +1,5 @@
 # Emotion Detection in Text using Natural Language Processing
 
-<img src="./images/index.png"/>
 
 <br>
 
@@ -24,7 +23,7 @@ The Logistic Regression achieved an accuracy of 62% on the data.
 # Installation
 1. Clone the repository to your local machine:
 ```
-https://github.com/SannketNikam/Emotion-Detection-in-Text.git
+https://github.com/Nandiniazad9/sentiment-analysis-tool
 ```
 
 2. Install the 'requirements.txt':
